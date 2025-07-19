@@ -1,5 +1,5 @@
 {
-  "name": "櫻花之路-2.0---日本五十音學習遊戲",
+  "name": "jp50",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -16,6 +16,9 @@
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.40",
+    "tailwindcss": "^3.4.7",
     "typescript": "~5.7.2",
     "vite": "^6.2.0"
   }
